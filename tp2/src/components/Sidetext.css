@@ -1,0 +1,13 @@
+sidetext
+{
+    position: absolute;
+    top: 10px;
+    left: 25px;
+    font-size: 0.8rem;
+    color: #ffe09b;
+    transform: rotate(90deg);
+    transform-origin: left top;
+    margin: 3px;
+    outline: 2px dashed #ffa621;
+    outline-offset: 5px;
+}

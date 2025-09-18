@@ -1,0 +1,10 @@
+bottomtext 
+{
+  font-size: 2rem;
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  width: 100%;
+  text-align: left;
+  color: #3b2d4f;
+}
