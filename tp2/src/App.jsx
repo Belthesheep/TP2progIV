@@ -3,13 +3,15 @@ import reactLogo from './assets/vanillabelvectorized.svg'
 import viteLogo from './assets/vanillabelvectorized.svg'
 import './App.css'
 import Textcontainmentcomp from './components/Textcontainmentcomp.jsx'
+import Footer from './components/footercomps/Footer.jsx'
+import Headerbtn from './components/headercomps/Headerbtn.jsx'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <header></header>
+      <header><Headerbtn/></header>
       <div>
         
         <Textcontainmentcomp/>
@@ -34,7 +36,8 @@ function App() {
         Click on the sheep. Do it now.
         </p>
       </div>
-    <footer></footer>
+      
+    <footer><Footer/></footer>
     </>
   )
 }
