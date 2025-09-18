@@ -1,0 +1,15 @@
+muh
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 100px;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 5px;
+    color: rgb(104, 219, 102);
+    text-align: center;
+    font-size: 15px;
+
+}

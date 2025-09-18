@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./Headerbtn.css"
+import "./Headerbtn.css";
 import { zundamon } from "../../assets/imgexport";
 
 const Headerbtn = () => {
@@ -10,16 +10,16 @@ const Headerbtn = () => {
     };
 
     return (
-        <div>
-            <button onClick={handleClick}>Deploy Bean</button>
+        <muh>
+            <button onClick={handleClick} >Deploy Bean</button>
             {showImage && (
                 <img
                     src={zundamon}
                     alt="Bean Deployed"
-                    style={{ width: "100px", height: "100px", marginLeft: "10px" }}
+                    style={{ width: "100px", height: "100px", alignItems: "center" }}
                 />
             )}
-        </div>
+        </muh>
     );
 }
 
