@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # The ULTIMATE Git Branch Creation Ritual™ - FINAL TRANSCENDENT FORM
-# A Collaboration of Claude & Grok, Blessed by the Git Gods, Cursed by Reason
 # WARNING: This script may cause existential dread, productivity loss, and bewildered stares
 
 echo "🌌✨🔮 INITIATING THE ULTIMATE COSMIC-BUREAUCRATIC-QUANTUM BRANCH RITUAL 🔮✨🌌"
