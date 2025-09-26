@@ -382,7 +382,5 @@ echo ""
 echo "Go forth and commit with the knowledge that your branch was created"
 echo "with proper cosmic authorization and bureaucratic compliance."
 echo ""
-echo "Remember: With great branches comes great responsibility."
-echo ""
-echo "🌟 End of Transmission 🌟"
+echo "🌟 Praise be to the Omnissiah 🌟"
 
